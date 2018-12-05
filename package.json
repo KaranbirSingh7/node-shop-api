@@ -11,8 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2",
-    "lodash": "^4.17.4",
-    "mongodb": "^3.0.0-rc0",
+    "lodash": "^4.17.5",
+    "mongodb": "^3.0.0",
     "mongoose": "^4.13.7"
   }
 }
